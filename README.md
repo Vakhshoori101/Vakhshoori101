@@ -1,8 +1,9 @@
 ### Hi there, I'm Rostam 👋
 
-🔭 I’m currently working as an SDE Intern at Amazon. I am an incoming 4th year at UC Irvine
-🌱 I enjoy creating a software that makes a positive impact on the world
-📫 How to reach me: here is my [website](https://rostamvakhshoori.com)
+- 🔭 I’m currently working as an SDE Intern at Amazon. I am an incoming 4th year at UC Irvine
+- 🌱 I enjoy creating a software that makes a positive impact on the world
+- 📫 How to reach me: here is my [website](https://rostamvakhshoori.com), check out my [linkedln](https://www.linkedin.com/in/rostamvakhshoori/![image](https://user-images.githubusercontent.com/52270944/128467789-b9acf87c-fe23-442d-b598-07498a0aa162.png)
+)
 
 <!--
 **Vakhshoori101/Vakhshoori101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
