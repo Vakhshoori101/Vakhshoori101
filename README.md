@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Rostam 👋
+
+🔭 I’m currently working as an SDE Intern at Amazon. I am an incoming 4th year at UC Irvine
+🌱 I enjoy creating a software that makes a positive impact on the world
+📫 How to reach me: here is my [website](https://rostamvakhshoori.com)
 
 <!--
 **Vakhshoori101/Vakhshoori101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
