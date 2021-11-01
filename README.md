@@ -1,6 +1,6 @@
 ### Hi there, I'm Rostam 👋
 
-- 🔭 I’m currently working as an SDE Intern at Amazon. I am an incoming 4th year at UC Irvine
+- 🔭 I am a 4th year at UC Irvine
 - 🌱 I enjoy creating a software that makes a positive impact on the world
 - 📫 How to reach me: here is my [website](https://rostamvakhshoori.com), check out my [linkedln](https://www.linkedin.com/in/rostamvakhshoori)!
 
